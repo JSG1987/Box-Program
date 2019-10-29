@@ -1,0 +1,7 @@
+This is a right triangle. 
+This is an Obtuse triangle. 
+This is a right triangle. 
+This is an acute triangle. 
+This is a right triangle. 
+This is an Obtuse triangle. 
+This is a right triangle. 
